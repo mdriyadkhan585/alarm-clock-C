@@ -1,4 +1,5 @@
 # alarm-clock-C
+[In python3](https://github.com/mdriyadkhan585/Python-Alarm-Clock)
 ![alarm clock](logo.svg)
 
 ---
